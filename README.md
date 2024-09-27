@@ -1,2 +1,2 @@
-# app-sql-injection
-SQL Injection Test
+# SQL Injection Teste
+Simple SQL injection test tool.
